@@ -1,4 +1,9 @@
-export class User {
-	userId!: string;
-	password!: string;
+export class User{
+	id!:number;
+	email!:string;
+	username!:string;
+	password!:string;
+	constructor(
+		
+	){}
 }
